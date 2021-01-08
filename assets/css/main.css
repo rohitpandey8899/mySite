@@ -2902,6 +2902,9 @@ input, select, textarea {
 			.statistics li.style5 {
 				background-color: #8cc9f0;
 			}
+			.statistics li.style6 {
+				background-color: #ff99ff;
+			}
 
 			.statistics li strong, .statistics li b {
 				display: block;
