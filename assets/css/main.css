@@ -208,6 +208,13 @@ input:checked + .slider:before {
   transform: translateX(26px);
 }
 
+.log{
+	content: URL("images/logo.png");
+}
+.log-c{
+	content: URL("images/logo_cl.png");
+}
+
 
 	.dark-mode {
 				background-color: #112d32;
