@@ -29,6 +29,8 @@ function myFunction() {
    var wrk = document.getElementById("work");
    var addr = document.getElementById("addres");
    var nvai = document.getElementById("nav-ul");
+	 var lo = document.getElementById("logo");
+   lo.classList.toggle("log-c");
    bd.classList.toggle("dark-mode");
    element1.classList.toggle("dark-mode");
    introd.classList.toggle("dark-mode-main");
@@ -42,7 +44,7 @@ function myFunction() {
 </script>
 				<!-- Header -->
 					<header id="header" class="alt">
-						<span class="logo"><img src="images/logo.png" height="200" alt="" /></span>
+						<span class="logo"><img id="logo" class="log" height="200" alt="" /></span>
 						<h1>Rohit Pandey</h1>
 						<p>Coder & App Developer<br>
 						get in touch <a href="rohitpandeyap123@gmail.com">@rohitPandey</a></p>
