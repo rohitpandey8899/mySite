@@ -209,7 +209,7 @@ input:checked + .slider:before {
 }
 
 .log{
-	content: URL("rohitpandey8899/mySite/blob/main/images/logo.png");
+	background:URL("rohitpandey8899/mySite/blob/main/images/logo.png");
 }
 .log-c{
 	content: URL("images/logo_cl.png");
