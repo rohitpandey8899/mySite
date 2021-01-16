@@ -209,7 +209,9 @@ input:checked + .slider:before {
 }
 
 .log{
-	background:URL(images/logo.png);
+
+	content: URL(images/logo.png);
+
 }
 .log-c{
 	content: URL("images/logo_cl.png");
