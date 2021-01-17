@@ -210,11 +210,11 @@ input:checked + .slider:before {
 
 .log{
 
-background-image: url("./images/oriental-tiles.png");
+background-image: url("https://raw.githubusercontent.com/rohitpandey8899/mySite/main/images/logo.png?token=ALBNRAO6HPACSS3QNF7AXNDABUN3G");
 
 }
 .log-c{
-	content: URL("images/logo_cl.png");
+	content: URL("https://raw.githubusercontent.com/rohitpandey8899/mySite/main/images/logo_cl.png?token=ALBNRAI35JUCVBV4FE7PEQDABUODM");
 }
 
 
