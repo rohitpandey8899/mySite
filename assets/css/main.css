@@ -54,7 +54,25 @@ footer, header, hgroup, menu, nav, section {
     }
 }
 
+.coder{
+	width: 0ch;
+	overflow:hidden;
+	white-space: nowrap;
+	animation: text 10s steps(21) infinite alternate;
+	border-right : 3px solid black;
+}
 
+@keyframes text{
+	0%{
+		width : 0ch;
+	}
+	30%{
+		width: 11ch;
+	}
+	50%{
+		width: 21ch;
+	}
+}
 
 
 
