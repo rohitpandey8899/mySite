@@ -2488,6 +2488,8 @@ background-image: url("https://raw.githubusercontent.com/rohitpandey8899/mySite/
 /* Image */
 
 	.image {
+		border-radius: 8px;
+		border: 0;
 		display: inline-block;
 		position: relative;
 	}
